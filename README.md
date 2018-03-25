@@ -36,7 +36,7 @@ There are 5 elements in the game:
 * The number of keys available will be the same with the number of players.
 * All the keys are place in column 11 of the map.
 * A key can be picked up by just go to the cell contain the key.
-
+* A player start with 3 cards and will refill after each turn to always has 3 cards.
 
 ## End game condition
 
@@ -47,7 +47,7 @@ There are 5 elements in the game:
 1. Roll 4 dice other than the movement dice. 
 2. Roll the movement dice.
 3. [Resolve the dice](#resolve-the-dice).
-4. Use cards.
+4. Use cards as long as having enough energy and cards on hand.
 
   * A card can be used if a player spend the number of energies equal to the value in that card.
   * A push back card will affect all players other than the one who play that card.
