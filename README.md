@@ -9,7 +9,7 @@ The goal of the game for a player is to get a key and then comeback to his or he
 There are 5 elements in the game:
 
 * A set of 5 dice in which one die has a different color from the others called the movement dice.
-* A hexagon map with the dimension of 23 cells in a row x 13 cells in a collumn.
+* A hexagon map with the dimension of 23 cells in a row x 13 cells in a collumn. (With the keys marked in the map in setup phase)
 * A set of 6 different players indicators.
 * A set of many (100) enegery indicators.
 * A deck of card which contains 30 cards in which:
