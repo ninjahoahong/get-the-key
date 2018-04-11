@@ -58,7 +58,11 @@ There are 5 elements in the game:
 * When there is a double in the 4 normal dice, take the number of energies equivalent to the number in one die of the double.
 * When there is a triple in the 4 normal dice, take double the number of enegies when having double.
 * When there is a quadruple in the 4 normal dice, take triple the number of energies when having double.
-* When the movement die has the same value with any double, triple, quadruple in the normal dice, then the player who roll the dice award free movement equivalent to the value of the movement die.
+* When the movement die has a value bigger than or equal to a value in any of the double, triple, quadruple in the normal dice, then the player who roll the dice award free movement equivalent to the value of a value in a normal die. If there are two doubles of normal dice and a movement die value is bigger than both, the player will be rewarded with a free move equivalent to the value of a dice in the bigger dice pair. For example: 
+
+  * If a player roll two 4 and two 2, and the movement die value is 3 then the player get 2 steps free move.
+  * If a player roll two 4 and two 2, and the movement die value is 5 then the player get 4 steps free move.
+  
 
 ## Find available material for test plays
 It is very easy to prepare for a test play.
